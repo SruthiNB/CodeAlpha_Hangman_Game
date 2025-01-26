@@ -11,3 +11,5 @@ This is a simple implementation of the classic Hangman game written in Python. T
 ## Installation
 
 To play the game, you only need Python installed on your computer. It works with Python 3.x versions.
+
+git clone https://github.com/SruthiNB/CodeAlpha-hangman-game.git
